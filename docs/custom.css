@@ -1,0 +1,17 @@
+body {
+    font-size: 18px;
+  
+
+}
+
+.sidebar {
+    background-color: #f5f5f5;
+
+    /* change the value to your desired background color */
+}
+
+
+.sidebar-toggle {
+    display: none;
+}
+
