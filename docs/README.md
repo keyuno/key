@@ -443,7 +443,8 @@ Limitation of Liability
 3.2. You agree to indemnify and hold harmless the software author and the website owner from any claims, damages, or liabilities arising from your use of the software or the website or the content served or displayed.
 
 
+---
+
 <footer>
-  <hr>
-  <p>♾ 2023 key.studio</p>
+   <p> ♾ 2023 key.studio | Powered by <a href="https://github.com/docsifyjs/docsify/">docsify</a></p>
 </footer>
