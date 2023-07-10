@@ -20,15 +20,14 @@ https://github.com/keyuno/keyuno
 
 ##  Video Overview
 
-https://github.com/keyuno/key/blob/main/docs/
 
-https://github.com/keyuno/key/assets/37753822/1209d2c8-3cd7-4761-b213-b801b9e53e05
 
 <video controls width="640" height="360">
-  <source src="keyuno" type="video/mp4">
+  <source src="keyuno.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
+https://github.com/keyuno/key/assets/37753822/1209d2c8-3cd7-4761-b213-b801b9e53e05
 
 
 # Event Economy
