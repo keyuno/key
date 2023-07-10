@@ -20,12 +20,12 @@ https://github.com/keyuno/keyuno
 
 ##  Video Overview
 
+<div style="display: flex; justify-content: center;">
+    <source src="keyuno.mp4" type="video/mp4">
+  </video>
+</div>
 
 
-<video controls width="640" height="360">
-  <source src="keyuno.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
 https://github.com/keyuno/key/assets/37753822/1209d2c8-3cd7-4761-b213-b801b9e53e05
 
