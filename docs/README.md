@@ -25,8 +25,9 @@ https://github.com/keyuno/keyuno
   <source src="keyuno.mp4" type="video/mp4">
 </video>
 
+[](https://github.com/keyuno/key/assets/37753822/1209d2c8-3cd7-4761-b213-b801b9e53e05)
 
-https://github.com/keyuno/key/assets/37753822/1209d2c8-3cd7-4761-b213-b801b9e53e05
+
 
 
 # Event Economy
