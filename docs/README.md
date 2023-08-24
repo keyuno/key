@@ -250,7 +250,7 @@ It is more probable that our reality exists in a simulation that generates econo
 
 ## Economic Model
 
-In a computational simulation, information is a key component of the simulated reality. For the simulation to be economically valuable, the information contained within it must hold potential economic value. A way to approach this is to treat emergent events within the simulation as assets. Emergent events can be defined as any type of information that can be represented as an asset and traded on the simulators' market. This approach allows the simulators to identify and extract economic value from the events within the simulation.
+In a computational simulation, information is a key component of the simulated reality. For the simulation to be economically viable, the information contained within it must hold potential economic value. A way to approach this is to treat emergent events within the simulation as assets. Emergent events can be defined as any type of information that can be represented as an asset and traded on the simulators' market. This approach allows the simulators to identify and extract economic value from the events within the simulation.
 
 The treatment of emergent events as assets within the simulation would lead to two primary economic activities:
 
