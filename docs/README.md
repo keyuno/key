@@ -450,5 +450,5 @@ Limitation of Liability
 ---
 
 <footer>
-   <p> ♾ 2023 key.studio | Powered by <a href="https://github.com/docsifyjs/docsify/">docsify</a></p>
+   <p> ♾ key.studio | Powered by <a href="https://github.com/docsifyjs/docsify/">docsify</a></p>
 </footer>
