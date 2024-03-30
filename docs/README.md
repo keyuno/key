@@ -267,14 +267,14 @@ Event asset trading, involves treating events, including future events, as asset
 
 ## Chain of Events
 
-The simulation hypothesis relies on the assumption that the information extracted from the simulation must hold economic value for the simulators, who use event mining as part of their economic model. To maintain the integrity of the simulation and its event market, the simulators have an incentive not to interfere with the process of event formation. Bringing information from a competing timeline into our reality would break the chain of events and undermine the market.
+The economic simulation hypothesis relies on the assumption that the information extracted from the simulation must hold economic value for the simulators, who use event mining as part of their economic model. To maintain the integrity of the simulation and its event market, the simulators have an incentive not to interfere with the process of event formation. Bringing information from a competing timeline into our reality would break the chain of events and undermine the market.
 
 Additionally, no information from the future can influence the past, and the outcome of events is final. This explains why the arrow of time only goes forward. If it were possible to prove that the chain of events could be broken, it would also prove that the economic simulation hypothesis is incorrect.
 
 
 ## Non-Fungibility Principle
 
-The Non-Fungibility Principle principle states that no event can be completely identical to another event. This is because events are treated as unique and non-fungible assets that can be traded on the simulator's market. If events were completely identical to each other, they would lose their economic value as assets. Therefore, maintaining the non-fungibility of events is essential for the economic model of the simulation to work.
+The Non-Fungibility Principle states that no event can be completely identical to another event. This is because events are treated as unique and non-fungible assets that can be traded on the simulator's market. If events were completely identical to each other, they would lose their economic value as assets. Therefore, maintaining the non-fungibility of events is essential for the economic model of the simulation to work.
 
 
 ## Zero-Feedback Event Generation
